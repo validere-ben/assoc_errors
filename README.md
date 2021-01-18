@@ -1,0 +1,1 @@
+Example demonstrating 'incorrect' usage of `put_assoc` allowing invalid data to be inserted.
